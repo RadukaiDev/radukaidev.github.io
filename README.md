@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -172,7 +172,7 @@ body {
 
 <body>
     <nav>
-        <a href="/Portafolio/es/index.html">Español</a>
+        
     </nav>
     <main class="profile">
         <section class="profile__header">
