@@ -176,7 +176,7 @@ body {
     </nav>
     <main class="profile">
         <section class="profile__header">
-            <img src="radukai.png" alt="Avatar" class="profile__avatar">
+            <img src="/Portafolio/radukai.png" alt="Avatar" class="profile__avatar">
             <div class="profile__info">
                 <h1 class="profile__name">RaduDev</h1>
                 <p class="profile__role">Fullstack Developer</p>
