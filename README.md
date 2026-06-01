@@ -172,7 +172,7 @@ body {
 
 <body>
     <nav>
-        <a href="es/index.html">Español</a>
+        <a href="/Portafolio/es/index.html">Español</a>
     </nav>
     <main class="profile">
         <section class="profile__header">
